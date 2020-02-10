@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\bin\Debug\SchoolAppJohnO.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\bin\Debug\SchoolAppJohnO.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\bin\Debug\SchoolAppJohnO.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\obj\Debug\SchoolAppJohnO.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\obj\Debug\SchoolAppJohnO.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\obj\Debug\SchoolAppJohnO.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\obj\Debug\SchoolAppJohnO.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\obj\Debug\SchoolAppJohnO.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\obj\Debug\SchoolAppJohnO.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\SchoolAppJohnO\SchoolAppJohnO\obj\Debug\SchoolAppJohnO.frmSchoolApp.resources
