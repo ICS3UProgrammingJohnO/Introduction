@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\bin\Debug\HelloIntJohnO.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\bin\Debug\HelloIntJohnO.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\bin\Debug\HelloIntJohnO.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\obj\Debug\HelloIntJohnO.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\obj\Debug\HelloIntJohnO.HelloIntForm.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\obj\Debug\HelloIntJohnO.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\obj\Debug\HelloIntJohnO.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\obj\Debug\HelloIntJohnO.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\obj\Debug\HelloIntJohnO.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\OJohn (s422862)\Introduction\HelloWorldJohnO\HelloWorldJohnO\HelloIntJohnO\HelloIntJohnO\obj\Debug\HelloIntJohnO.pdb
